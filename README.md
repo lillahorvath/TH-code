@@ -1,6 +1,6 @@
 # TH code
 
-This repository contains the complete set of scripts (all written in Matlab (Release R2017B)) that implement the analysis of the behavioral and fMRI sequential decision making dataset of Horvath et al (XXX - preprint available soon). The BIDS formatted dataset "Treasure hunt" is available here: XXX - dataset available soon. For code details please refer to the function headers. 
+This repository contains the complete set of scripts (all written in Matlab (Release R2017B)) that implement the analysis of the behavioral and fMRI sequential decision making dataset of Horvath et al (XXX - preprint available soon). The BIDS formatted dataset "Treasure hunt" is available here: XXX - dataset available soon. For code details please refer to the headers. The mother of all TH code: th_data_analysis.
 
 Note that the code calls on a number of packages listed below. To run the code, please download these dependencies. 
 
